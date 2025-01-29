@@ -1,0 +1,11 @@
+body{
+    font-family: 'Open Sans' ,sans-serif;
+    background-color: rgb(168, 67, 39);
+}
+#container{
+    width: 1000px;
+    height: 550px;
+    background-image: url(fall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
